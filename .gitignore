@@ -1,0 +1,8 @@
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Participant data downloaded from studies (never commit real data)
+gaze_data*.json
+*.csv
+*_report*.pdf

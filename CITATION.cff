@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or build on this project, please cite it as below."
+title: "GazingStudy: Webcam Eye-Tracking Study for Autism Research"
+type: software
+authors:
+  - family-names: "V"
+    given-names: "Yuvaraj"
+repository-code: "https://github.com/Yuvarajv2708/GazingStudy"
+license: GPL-3.0
+date-released: 2024-10-06
+keywords:
+  - eye-tracking
+  - gaze-tracking
+  - autism
+  - webgazer
+  - biomedical-engineering
+references:
+  - type: conference-paper
+    title: "WebGazer: Scalable Webcam Eye Tracking Using User Interactions"
+    authors:
+      - family-names: Papoutsaki
+        given-names: Alexandra
+      - family-names: Sangkloy
+        given-names: Patsorn
+      - family-names: Laskey
+        given-names: James
+      - family-names: Daskalova
+        given-names: Nediyana
+      - family-names: Huang
+        given-names: Jeff
+      - family-names: Hays
+        given-names: James
+    collection-title: "Proceedings of IJCAI-16"
+    year: 2016
